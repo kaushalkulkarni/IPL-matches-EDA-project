@@ -13,4 +13,4 @@ ___________________________________________________________________
 
 * This project showcases the Exploratory Data Analysis done for IPL matches data from 2008 till 2018.
 * The EDA showcases the analysis done for few important questions such as __*who won the most of the IPL seasons, who won most of the times Player of match award, impact of winning toss on match and wins in home cities compared to the other ones*__ via different plots.
-* ![Link for Jupyter Notebook](/TermI_IPL_matches_Project.ipynb)
+* [Link for Jupyter Notebook](/TermI_IPL_matches_Project.ipynb)
